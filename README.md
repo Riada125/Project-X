@@ -1,1 +1,1 @@
-# Project-X
+# 'The Simpsons' Random Quote Generator
