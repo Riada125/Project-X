@@ -6,11 +6,11 @@
 
 
 
-##Overview <img src=src/HomerTransparent.png width= 200px>
+## Overview <img src=src/HomerTransparent.png width= 200px>
 I think that the first 12(ish) seasons of The Simpsons is some of the best TV ever created. Tasked with creating a very simple, single-page React app that consumes a public API - I was pleased to discover that a [Simpsons Quote API](https://thesimpsonsquoteapi.glitch.me/) exists!
 
 
-##Brief
+## Brief
 - Create a single-page React app that talks to an API and displays some data
 - Use a public API
 - Style it nicely
@@ -18,7 +18,7 @@ I think that the first 12(ish) seasons of The Simpsons is some of the best TV ev
 
 
 
-##Technologies Used
+## Technologies Used
 
 
 ## Challenges
